@@ -1,3 +1,0 @@
-<statements>
-<statement><source>/home/kamilk/github/scoverage-multi-module/two/src/main/scala/Two.scala</source><package>Two</package><class>Two</class><classType>Class</classType><topLevelClass>Two</topLevelClass><method>bar</method><path>/home/kamilk/github/scoverage-multi-module/two/src/main/scala/Two.scala</path><id>1</id><start>85</start><end>87</end><line>5</line><description>()</description><symbolName>&lt;nosymbol&gt;</symbolName><treeName>Literal</treeName><branch>false</branch><count>0</count><ignored>false</ignored></statement>
-</statements>
